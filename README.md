@@ -175,7 +175,7 @@ Crear un filtro o interceptor en el proyecto para validar el token en cada solic
 ### Paso 1: Clonar el Repositorio
 
 Clona el repositorio del proyecto a tu máquina local:
-```git clone https://github.com/tuusuario/forohub.git```
+```git clone https://github.com/iMawe/forohub.git```
 
 
 ### Paso 2: Configurar la Base de Datos
@@ -211,7 +211,4 @@ Si deseas contribuir al proyecto, por favor, sigue los pasos a continuación:
 4. Empuja tus cambios a la rama (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
 
